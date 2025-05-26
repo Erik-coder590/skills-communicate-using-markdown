@@ -5,3 +5,5 @@
 ``` python
 print("Hello world!")
 ```
+- [x] Checked
+- [ ] Unchecked
